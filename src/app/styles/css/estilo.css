@@ -61,6 +61,45 @@
 }
 
 
+.button3{
+    height: 100px;
+    width: 100px; 
+    background-color: orange;
+    border-radius: 10px;
+    position: absolute;
+    margin: 10px;
+    margin-left: 115px;
+    top: 205px;
+
+    
+    
+}
+.button3:active{
+    background-color: rgba(255, 166, 0, 0.63);
+    box-shadow: o 5px #666;
+    transform: translateY(4px);
+}
+
+.button4{
+    height: 100px;
+    width: 100px; 
+    background-color: orange;
+    border-radius: 10px;
+    position: absolute;
+    margin: 10px;
+    
+    top: 205px;
+
+    
+    
+}
+.button4:active{
+    background-color: rgba(255, 166, 0, 0.63);
+    box-shadow: o 5px #666;
+    transform: translateY(4px);
+}
+
+
 
 .input1{
 
