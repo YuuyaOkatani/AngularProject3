@@ -18,15 +18,25 @@
         <div class="component1">
             
            
+<<<<<<< HEAD
             <input class="input1" id="input1" type="text" [(ngModel)]="num1" name="num1" >
             <input class="input2" id="input2" type="text" [(ngModel)]="num2" name="num2">
             <input class="resultado" id="resultado" name="resultado" placeholder="resultado" [value]="resultado" disabled >
+=======
+            <input class="input1" id="input1" #input1>
+            <input class="input2" id="input2" #input2>
+            <label class="lbl1" > Resultado</label>
+>>>>>>> e9fdd7b1b52f94197f4bbdd91535a07c93e84450
             
             
                                                                                 
            
         
+<<<<<<< HEAD
             <button class="button1" (click)="calc('soma')">
+=======
+            <button class="button1" (click)="soma(input1, input2)">
+>>>>>>> e9fdd7b1b52f94197f4bbdd91535a07c93e84450
                 <i class="bi bi-plus-lg"></i>
                 
                 
