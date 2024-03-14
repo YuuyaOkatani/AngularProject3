@@ -9,7 +9,6 @@ import { Component, numberAttribute } from "@angular/core";
 })
 export class CalcComponent{
 
-<<<<<<< HEAD
     resultado: number = 0;
     num1: number = 0; 
     num2 : number = 0; 
@@ -34,10 +33,6 @@ export class CalcComponent{
         }
 
 
-=======
-    soma(a: number, b:number):number {
-        return a + b ; 
->>>>>>> e9fdd7b1b52f94197f4bbdd91535a07c93e84450
     }
     
     
