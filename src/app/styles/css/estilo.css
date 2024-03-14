@@ -31,7 +31,7 @@
     background-color: orange;
     border-radius: 10px;
     position: absolute;
-    top: 100px;
+    top: 120px;
     margin: 10px;
     
 }
@@ -49,7 +49,7 @@
     position: absolute;
     margin: 10px;
     margin-left: 115px;
-    top: 100px;
+    top: 120px;
 
     
     
@@ -69,7 +69,7 @@
     position: absolute;
     margin: 10px;
     margin-left: 115px;
-    top: 205px;
+    top: 220px;
 
     
     
@@ -88,7 +88,7 @@
     position: absolute;
     margin: 10px;
     
-    top: 205px;
+    top: 220px;
 
     
     
@@ -107,7 +107,7 @@
     position: absolute;
     margin: 10px;
     
-    top: 310px;
+    top: 320px;
 
     
     
@@ -131,7 +131,7 @@
    
     background-color: #d8d5d5;
     font-size: large;
-    direction: rtl;
+    
     
     
 }
@@ -147,7 +147,23 @@
     position: absolute;
     background-color: #d8d5d5;
     font-size: large;
-    direction: rtl;
+    
+    
+    
+}
+
+.resultado{
+
+    
+    border-radius: 10px;
+    height:25px;
+    width: 210px;
+    margin-left: 10px;
+    margin-top: 70px;
+    position: absolute;
+    background-color: #d8d5d5;
+    font-size: large;
+    
     
     
 }
